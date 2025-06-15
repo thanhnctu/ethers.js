@@ -1,3 +1,5 @@
+81
+
 Starting here: 20250606
 The Ethers Project
 Start learning day by day from here
